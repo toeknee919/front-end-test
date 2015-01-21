@@ -10,7 +10,7 @@ Fork this repo to your GitHub account. Make commits in correspondence to additio
 * The listing sorts alphabetically by title. **+10**
 * The interface scales responsively, and attractively across mobile, tablet, and desktop. **+10**
 * A User can change the query term and return new results for that term. **+15**
-* A User can add more results to the query with a (show more) link at the bottom of the results. **+15**
+* A User can add more results to the listing with a link at the bottom of the results. **+15**
 
 **Rules:**
 *	You may use these JS libraries: **jQuery** and **UnderscoreJS**.
