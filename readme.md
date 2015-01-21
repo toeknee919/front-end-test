@@ -3,7 +3,7 @@ Build a front-end web application using JavaScript, HTML, and CSS. Take 10 image
 Fork this repo to your GitHub account. Make commits in correspondence to additions and fixes on the following features. Feel free to branch your code as necessary to address the development of certain features. Each feature is awarded a point value for its difficulty. Specify the feature you’re addressing in your commit message.
 
 **Features:**
-* App returns a JSON Object to be parsed. **+3**
+* App returns a JSON Object to be parsed. **+5**
 * App formats JSON into an HTML listing. **+5**
 * Each entry contains a hyperlink that connects to an individual listing on Wikipedia. **+5**
 * Each listing contains a thumbnail of the associated image. **+7**
