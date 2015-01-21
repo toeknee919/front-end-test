@@ -13,11 +13,10 @@ Fork this repo to your GitHub account. Make commits in correspondence to additio
 * A User can add more results to the listing with a link at the bottom of the results. **+15**
 
 **Rules:**
-*	You may use these JS libraries: **jQuery** and **UnderscoreJS**.
-*	You may also use a CSS framework of your choice (such as **Bootstrap**)
-* The app should be able to run by loading the index.html file into a web browser.
+* You may use these JS libraries: **jQuery** and **UnderscoreJS**. 
+* You may also use a CSS framework of your choice (such as **Bootstrap**). 
+* The app should be able to run by loading the index.html file into a web browser. 
 
- 
-* [Here is the link to the MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page)
+[Here is the link to the MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page).
 
 
