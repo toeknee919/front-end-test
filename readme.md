@@ -5,7 +5,7 @@ Fork this repo to your GitHub account. Make commits in correspondence to additio
 **Features:**
 * App returns a JSON Object to be parsed. **+5**
 * App formats JSON into an HTML listing. **+5**
-* Each entry contains a hyperlink that connects to an individual listing on Wikipedia. **+5**
+* Each entry contains a hyperlink that connects to an individual image listing on Wikipedia. **+5**
 * Each listing contains a thumbnail of the associated image. **+7**
 * The listing sorts alphabetically by title. **+10**
 * The interface scales responsively, and attractively across mobile, tablet, and desktop. **+10**
