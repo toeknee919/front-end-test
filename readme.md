@@ -3,14 +3,14 @@ Build a front-end web application using JavaScript, HTML, and CSS. Take 10 image
 Fork this repo to your GitHub account. Make commits in correspondence to additions and fixes on the following features. Feel free to branch your code as necessary to address the development of certain features. Each feature is awarded a point value for its difficulty. Specify the feature you’re addressing in your commit message.
 
 **Features:**
-* App returns a JSON object to be parsed. **+5**
-* App formats JSON into an HTML listing. **+5**
-* Each entry contains a hyperlink that connects to an individual image listing on Wikipedia. **+5**
-* Each listing contains a thumbnail of the associated image. **+7**
-* The listing sorts alphabetically by title. **+10**
-* The interface scales responsively, and attractively across mobile, tablet, and desktop. **+10**
-* A user can change the query term and return new results for that term. **+15**
-* A user can add more results to the listing with a link at the bottom of the results. **+15**
+* App returns a JSON object to be parsed. **+5** check
+* App formats JSON into an HTML listing. **+5** check
+* Each entry contains a hyperlink that connects to an individual image listing on Wikipedia. **+5** check
+* Each listing contains a thumbnail of the associated image. **+7** check
+* The listing sorts alphabetically by title. **+10** check
+* The interface scales responsively, and attractively across mobile, tablet, and desktop. **+10** check
+* A user can change the query term and return new results for that term. **+15** check
+* A user can add more results to the listing with a link at the bottom of the results. **+15** check
 
 **Rules:**
 * You may use these JS libraries: **jQuery** and **UnderscoreJS**. 
