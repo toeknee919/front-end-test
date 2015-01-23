@@ -1,4 +1,4 @@
-/*this is the file which is used for styling*/
+/*this is the file used for styling*/
 
 
 head, h1{
@@ -7,11 +7,12 @@ head, h1{
 	text-align: center;
 	margin-left: 10px;
 	margin-right: 10px;
+	background-color: #333333;
 }
 
 body{
 	min-height: 100%;
-    background-color: #555555;
+    background-color: #333333;
     margin-left: 10px;
     margin-right: 10px;
 	}
@@ -21,4 +22,24 @@ body{
 	padding: 10px;
 	margin-left: 10px;
 	margin-right: 10px;
+}
+
+label{
+	color:white;
+}
+
+input[type=button]{
+     border-top: 1px solid #EEE;
+     background: #666;
+     padding: 3.5px 7px;
+     -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+     border-radius: 3px;
+     -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+     -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+     box-shadow: rgba(0,0,0,1) 0 1px 0;
+     color: white;
+     font-size: 13px;
+     text-decoration: none;
+     vertical-align: middle;
 }
